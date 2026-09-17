@@ -4,13 +4,13 @@
 
 **A highly interactive Advanced Data Structures & Algorithms learning platform.**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://ads-aao-dekho-seekho-iw4qizo85-master-bhogals-projects.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://ads-aao-dekho-seekho.vercel.app)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[**✨ VIEW LIVE DEMO ✨**](https://ads-aao-dekho-seekho-iw4qizo85-master-bhogals-projects.vercel.app)
+[**✨ VIEW LIVE DEMO ✨**](https://ads-aao-dekho-seekho.vercel.app)
 
 <br/>
 <!-- You can add a preview screenshot here! Example below: -->
